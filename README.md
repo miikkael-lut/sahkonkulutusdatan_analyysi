@@ -1,0 +1,2 @@
+# sahkonkulutusdatan_analyysi
+Pieni komentorivipohjainen harjoitustyö sähkönkulutuksen analysointiin
