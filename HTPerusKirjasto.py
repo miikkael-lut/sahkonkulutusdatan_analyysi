@@ -1,14 +1,4 @@
-######################################################################
-# CT60A0203 Ohjelmoinnin perusteet
-# Tekijä: Miikkael Rantala
-# Päivämäärä: 30.11
-# Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
-# lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
-# https://realpython.com ja ChatGPT funktioiden toiminnan kuvauksen tarkistus esim miten for tai write toimii
-# Mahdollisen vilppiselvityksen varalta vakuutan, että olen tehnyt itse
-# tämän tehtävän ja vain yllä mainitut henkilöt sekä lähteet ovat
-# vaikuttaneet siihen yllä mainituilla tavoilla.
-######################################################################
+
 import time
 from datetime import datetime
 import sys
